@@ -1,0 +1,17 @@
+# Dependency folders (The heavy stuff)
+node_modules/
+frontend/node_modules/
+
+# Python virtual environment
+myenv/
+venv/
+ENV/
+
+# Python cache and local files
+__pycache__/
+*.pyc
+.env
+
+# IDE settings
+.vscode/
+.idea/
